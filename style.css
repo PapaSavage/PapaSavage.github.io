@@ -124,6 +124,7 @@ body {
 }
 
 img {
+   background-color: white;
    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.758);
    border: none;
    border-radius: 25px;
